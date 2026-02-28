@@ -14,6 +14,5 @@
     </div>
 
     <!-- Aquí puedes agregar enlaces a tus archivos JS -->
-    <script src="{{ mix('js/app.js') }}"></script>
 </body>
 </html>
